@@ -1,0 +1,36 @@
+{
+    "quizDatas": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "correct": "Paris"
+      },
+      {
+        "question": "Which language runs in a web browser?",
+        "options": ["Java", "C", "Python", "JavaScript"],
+        "correct": "JavaScript"
+      },
+      {
+        "question": "Who is the President of the USA in 2023?",
+        "options": ["Donald Trump", "Joe Biden", "Barack Obama", "George Bush"],
+        "correct": "Joe Biden"
+      },
+      {
+        "question":"What is the name of an electronic tool that facilitates the input, processing, and output of information?",
+        "options":["Operating system","Motherboard","Computer","CPU"],
+        "correct":"Computer"
+      },
+      {
+        
+        "question":"What is the term for a worldwide network of computers?",
+        "options":["Internet","RAM","Network","CPU"],
+        "correct":"Internet"
+      },
+      {
+        "question":"What is the part of a computer that allows a user to input information?",
+        "options":["Output Device","Software", "Operating System","Input Device"],
+        "correct":"Input Device"
+      }
+    ]
+  }
+  
